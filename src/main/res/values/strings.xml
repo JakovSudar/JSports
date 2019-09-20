@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">JSports</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string-array name="options">
+        <item> Nogomet </item>
+        <item> Rukomet </item>
+        <item> Košarka </item>
+        <item> Hokej </item>
+        <item> Vaterpolo </item>
+        <item> Badminton </item>
+        <item> Šah </item>
+        <item> Kriket </item>
+        <item> Golf </item>
+        <item> Tenis </item>
+        <item> Stolni tenis </item>
+        <item> Atletika </item>
+        <item> Boks </item>
+        <item> Bob </item>
+        <item> Pikado </item>
+        <item> Kuglanje </item>
+        <item> Biljar </item>
+        <item> Bejzbol </item>
+        <item> Kanu </item>
+        <item> Veslanje </item>
+        <item> Ronjenje </item>
+        <item> Plivanje </item>
+    </string-array>
+
+
+    <string name="nogomet">Nogomet je sport u kojemu se dvije momčadi od 11 igrača nadmeću na pravokutnom igralištu travnate površine. Cilj igre jest postizanje više pogodaka od protivničke momčadi bilo kojim dijelom tijela osim rukom. Vratar je jedini igrač kojemu je dozvoljeno igrati i zabiti gol rukama, doduše samo unutar jasno označenog pravokutnika ispred vlastitih vrata. Svim igračima dopušteno je proizvoljno kretanje po terenu, iako pravilo zaleđa ograničava napadačke kretnje ovisno o položaju lopte i protivničke obrane.</string>
+    <string name="rukomet">Rukomet je ekipni šport s loptom, u kojem se natječu dvije momčadi s po 7 igrača (6 igrača u polju + 1 golman) na svakoj strani, Osnovni cilj igre jest loptom pogoditi označeni prostor gola. Lopta se između igrača dodaje rukama slično kao u košarci, ali s nešto manjom loptom te uz drugačija pravila vođenja lopte.</string>
+    <string name="kosarka">Košarka je sport u kojem dvije momčadi sastavljene od pet igrača pokušavaju ostvariti što više poena (bodova) ubacivanjem lopte kroz obruč koša pod organiziranim pravilima. Kada se to dogodi govori se o košu.
+
+Do bodova se dolazi ubacivanjem lopte kroz obruč koša pod uvjetom da je lopta kroz obruč prošla odozgo. Momčad koja na kraju utakmice ostvari više bodova pobjednik je. Koš zabijen unutar luka vrijedi 2 boda, iza luka vrijedi 3 (trica), a slobodno bacanje vrijedi 1 bod. Loptom se upravlja njenim odbacivanjem od podloge (dribling) ili međusobnim dodavanjem između suigrača. Tjelesni kontakt koji ometa igrača u igri nije dozvoljen (prekršaj). Postoje strogo određena pravila i načini na koje se lopta smije voditi.</string>
+    <string name="hokej">Hokej na ledu jedan je od najdinamičnijih zimskih športova. Hokej je ekipni šport koji se igra na umjetnim ili prirodnim ledenim površinama, a najpopularniji je u zemljama s dugim, hladnim zimama. Iznimno je popularan u Češkoj, Finskoj, Kanadi, Rusiji, Slovačkoj, Švedskoj i Sjedinjenim Američkim Državama. Krovna organizacija hokeja na ledu IIHF (International Ice Hockey Federation) ima 64 članice, a lige spomenutih zemalja smatraju se najjačima. Na Zimskim je Olimpijskim igrama hokej prisutan od 1924. godine. Najjača je profesionalna liga sjevernoamerička NHL (eng. National Hockey League, ili Nacionalna hokejaška liga) u kojoj se natječe 30 klubova, od čega 23 iz SAD-a, te 7 kanadskih.</string>
+    <string name="vaterpolo">Vaterpolo je ekipni vodeni sport u kojem sudjeluju dvije ekipe s po sedam članova (jedan od njih je vratar). Uz nogomet, najstariji je momčadski šport koji se pojavio na programu Olimpijskih igara - 1900. godine u Parizu.
+
+Vaterpolo je, najtrofejniji hrvatski momčadski šport. Cilj igre je postići što više pogodaka. Utakmica se igra 32 minute, a podijeljena je na četiri četvrtine, od kojih svaka traje 8 minuta. Na početku svake četvrtine po jedan igrač iz svake momčadi pliva od gola prema sredini igrališta na kojemu je lopta; onaj igrač koji prvi dopliva do lopte osvaja ju na taj način i njegova momčad prva kreće u napad.</string>
+    <string name="badminton">Badminton je sport koji se igra reketom, a u kojem se susreću ili dva pojedinca ili dva para. Igrači igraju na svojoj strani pravokutnog terena podijeljenog mrežom po sredini. Igrači reketom udaraju badmintonsku lopticu tako da pređe mrežu i padne u suprotnu polovicu terena, a s ciljem da je protivnik ne uspije vratiti. Loptica se smije udariti samo jednom prije nego što se uputi preko mreže. Poen počinje servisom jedne od strana, a završava kad loptica dodirne tlo.
+
+Badminton je natjecateljski sport, ujedno i standardni olimpijski sport, koji se igra u pet kategorija: pojedinačno žene i muškarci, ženski i muški parovi, te mješoviti parovi.
+
+Badminton je također vrlo raširen vid rekreacije, pogodan i za igru u prirodi, bez mreže ili pravila, zbog čega se često od neupućenih ne doživljava kao ozbiljan sport, dok je to doista tehnički zahtjevan sport koji od natjecatelja uz vještinu traži i izdržljivost, snagu i brzinu.</string>
+    <string name="sah">Šah je igra za dva igrača. Postoje 3 tipa: klasični (stolni šah), dopisni šah i problemski šah.[1] Šahovska ploča je kvadratnog oblika, podijeljena u 64 (8×8) polja, obojanih naizmjenično svjetlom i tamnom bojom (redovno se govori "bijeli" i "crni"). Svaki igrač na početku igre ima 16 šahovskih figura, od toga osam pješaka, po jedan par lovaca, skakača i topova te kralja i kraljicu. Jedan igrač igra s figurama bijele, a drugi s figurama crne boje.
+
+Igra s ovakvom pločom i figurama postoji barem od 6. stoljeća, ali pravila o kretanju figura mijenjala su se. Bitna promjena, koja čini moderni šah posve drugačijom igrom od iranskog šatrandža, uvedena je oko 1470. godine u Italiji. Kasnije je bilo još modifikacija pravila (rokada, uzimanje en passant, promocija pješaka), pa su pravila konačno fiksirana tek u 19. stoljeću.</string>
+    <string name="kriket">Kriket je šport u kojema se loptica udara palicom ili batom, sličan bejzbolu. Globalno gledano, kriket je drugi najveći šport na svijetu. Kriket je igra koju igraju dvije jedanaesteročlane momčadi. Momčadi se smjenjuju u ulozi udarača i čuvara polja. Tijekom svakog kola udaračka strana nastoji osvojiti bodove trčanjem između vrata; čuvari polja nastoje srušiti vrata. Utakmica se sastoji od jednog ili dva kola za svaku stranu. Igra se isključivo ljeti i to po suhim vremenskim uvjetima. U Hrvatskoj postoje 3 kriket kluba(u Zagrebu,Splitu i na Visu). Od 2004. postoji i Hrvatski Kriket Savez. Hrvatska kriket reprezentacija djeluje od 2000.</string>
+    <string name="golf">Golf je olimpijski šport u kojem igrač nastoji lopticu sa što manje udaraca ubaciti u rupu, u skladu s pravilima. Golf je igra u kojoj su suprotstavljeni igrač i golf igralište . Svaki igrač ima lopticu i komplet palica i bit je u tome da se loptica udarena palicom odvede od početnog područja Tee do rupe Hole i to sa što manjim brojem udaraca.
+
+Svaki udarac bio uspješan ili ne računa se u rezultat, a ako se dogodi povreda određenog pravila igre onda se dodaju i kazneni bodovi odnosno udarci.
+
+U igri se igrači susreću s raznim fizičkim preprekama na terenu, jednako kao i s onim psihičke naravi. Golf je igra koja zahtijeva preciznost, strpljenje, smirenost i strategijsko razmišljanje.</string>
+    <string name="tenis">Tenis je sportska igra u kojoj se pomoću reketa i loptice dva ili četiri igrača nadmeću na označenom terenu. Osim što je vrlo raširen vid rekreacije tenis je i popularan sport, koji je standardno i u programima Olimpijskih igara. Tenis igraju po dva igrača kod pojedinačne igre, odnosno četiri igrača (po dva u jednoj momčadi) kod igre parova. Osnovni cilj igre je reketom uputiti lopticu preko mreže na stranu protivnika na takav način da je protivnik ne uspije vratiti prije nego li loptica drugi puta padne na zemlju. Pri tome loptica mora nakon što pređe mrežu prvim udarcem u tlo pogoditi protivnikov teren. Igra počinje servisom, kojeg prvi izvodi igrač određen ždrijebom ili bacanjem novčića. Servis se izvodi iza zadnje linije vlastitog polja, a lopticom se mora pogoditi dijagonalno servisno polje. Servira se naizmjence u lijevo odnosno desno servisno polje protivnika, prema rasporedu igre. Poen se osvaja ako protivnik ne uspije vratiti lopticu koja je pala u njegov dio terena, ili ako protivnik lopticu uputi na način da prvim dodirom sa zemljom ne uspije pogododiti unutar označenog terena (tzv. aut).</string>
+    <string name="stolnitenis">Stolni tenis je sport u kome se natječu dva (ili četiri) igrača koji lopticu udaraju reketom na stolu za stolni tenis.
+
+Dimenzije stola su 2,74 x 1,525 m, stol je visok 76 cm. Dvije polovice stola dijeli mrežica visoka 15,25 cm koja viri (produžava se) s obje strane stola za 15,25 cm.
+
+Po starim pravilima igralo se do 21, a svaki igrač je servirao za redom 5 puta. Danas se igra do 11 bodova, za redom se servira dva puta, pa je igra postala brža i zanimljivija.
+
+Igra se na tri ili četiri dobivena seta, do 11. Razlika mora biti dva boda, dakle 12:10, i tako dok se ne postignu dva boda razlike.
+
+Promjenama pravila je također loptica povećana s 38 na 40 mm i otežana - s 2,5 na 2,7 grama.</string>
+    <string name="atletika">Atletika je jedna od temeljnih i najraširenijih sportskih grana, a koja obuhvaća: trkačke, bacačke i skakačke discipline. Zbog svoje sveobuhvatnosti zovemo je, što atletika istinski i jest, kraljica sportova! Atletskim vježbama stječe se fizička snaga, izdržljivost, brzina i okretnost a učvršćuju se svojstva volje kao sto su hrabrost, odlučnost i upornost.
+
+Discipline atletike odlikuju se motoričkim kretanjima koja se uspješno mogu primjenjivati u toku obrazovnog procesa ili kroz druge oblike vježbanja, pomoću kojih se značajno utiče na podizanje opće psihofizičke sposobnosti pojedinca. Atletika je polazište i temelj za sve ostale sportove. Od 1896. godine uključena je u redovni program Olimpijskih igara.
+
+Vidi: osvajači olimpijskih medalja u atletici u disciplinama za muške, te disciplinama za žene.</string>
+    <string name="boks">Boks je borilački sport u kojem se protivnici slične tjelesne težine udaraju šakama na kojima su podstavljene rukavice. Borba se odvija u ograđenom pravokutnom ringu, u 3 do 15 rundi od po tri minute borbe. Cilj borbe je protivniku uputiti što više udaraca u dijelove tijela iznad pojasa (glava, torzo) te pri tome izbjeći protivnikove udarce. Može se pobijediti nokautom (oznaka KO, od engleskog izraza knock-out), tj. kada se protivnik nakon što je bačen na tlo ne uspije ustati u tijeku deset sekundi, tehničkim nokautom (oznaka TKO), tj. kada jedan borac nema snage nastaviti borbu, ili se pak pobjednik određuje odlukom sudaca poslije dogovorenog broja rundi.
+
+Zbog činjenice da u boksu nije dozvoljeno protivnika udarati dok je na podu, te da postoje stroga pravila u koji dio tijela i na koji način se smije udarati protivnika, boks se često naziva i plemenitom vještinom.</string>
+    <string name="bob">Bob je zimski sport u kojem se natjecatelji pokušavaju u što kraćem vremenu spustiti po dogovorenoj zaleđenoj stazi u specijalnim aerodinamičnim sanjkama, koje se također nazivaju bob. Bob je standardni sport na Zimskim olimpijskim igrama od 1924. godine. Bob je zimski sport u kojem se natjecatelji pokušavaju u što kraćem vremenu spustiti po dogovorenoj zaleđenoj stazi u specijalnim aerodinamičnim sanjkama, koje se također nazivaju bob. Bob je standardni sport na Zimskim olimpijskim igrama od 1924. godine.</string>
+    <string name="pikado">Pikado je igra i športska diciplina u kojoj jedan ili više natjecatelja bacaju iz ruke male strjelice na okruglu metu koja je podijeljena na dijelove, u kojem svaki dio nosi određen broj bodova.
+
+Pikado je igra za razonodu, ali i profesionalni šport. Najbolji pikado igrač svih vremena je Phil Taylor sa 16 titula svjetskog prvaka.</string>
+    <string name="kuglanje">Kuglanje je športska grana u kojoj se koristi kugla za pogađanje čunjeva, sa svrhom srušiti što više. Čunjevi su postavljeni utvrđenim sustavom, na određenoj udaljenosti, na posebno pripremljenoj podlozi. Osnovne odredbe su: vodoravna i glatka površina daske položnice, raspoređenih 9 čunjeva, na njihovom postolju, u kvadratu, čija je dijagonala produžetak osi daske položnice i kuglačke staze, odigravanje kuglama iste težine i promjera, vodoravna površina postolja za čunjeve, itd.
+
+Način igranja se dijeli na: igru u "Pune", igru u "Čišćenje", "Mješovito" igranje. Igra u "Pune" se izvodi tako da je na postolju postavljeno svih 9 čunjeva (postava) za svaki hitac; svaki srušeni čunj daje učinak kugle od 1, učinak kugle u pune može iznositi od 1 do 9. Igra u "ČIŠĆENJE" se izvodi tako da se počne s prvim hicem u "pune", drugim i daljnjim hicima odigrava se u poziciju čunjeva koja je ostala nakon odigravanja prvog hica u "pune"; nakon rušenja cijele postave postavlja se ponovno svih 9 čunjeva...; kod "Mješovito" načina igranja, u jednoj seriji hitaca prva polovica se izvodi u "pune" a druga polovica u "čišćenje" (15 u pune i 15 u čišćenje).</string>
+    <string name="biljar">Biljar ili bilijar opsežan je pojam koji označava širok spektar igara za čije je odigravanje potreban stol prekriven posebnim platnom, štap (ke) i određen broj kugli. Natjecanje može biti pojedinačno („jedan na jedan“) ili u parovima. Igrači(ce) za pomicanje kugli služe se isključivo vrhom štapa prema jasno određenim pravilima. Usprkos višestoljetnoj popularnosti biljara kao omiljene zabave i razbibrige, profesionalno doba nastupilo je tek sredinom 20. stoljeća.[1] Osim u posebnim klubovima namijenjenim igranju raznih inačica biljara, stolovi posvećeni neformalnoj igri uz mnogo opuštenija pravila nalaze se u povećem broju kafića.</string>
+    <string name="bejzbol">Bejzbol (od engleskog naziva baseball, što dolazi od riječi base što znači baza i riječi ball što znači lopta) je momčadski sport u kojem se loptica udara palicom. Osnovni cilj igre momčadi u napadu je udariti bačenu lopticu na način da prije nego li protivnička obrana lopticu uhvati igrači napada osvoje neku od četiri označene baze. Postoji i podvarijanta bejzbola koja se igra na manjem terenu i s nešto većom loptom koja se naziva softbol, a primjerenija je natjecanjima žena i mlađih dobnih kategorija.
+
+Bejzbol je standardni sport na Olimpijskim igrama od Igara u Barceloni 1992. godine.</string>
+    <string name="kanu">Kanu je mali čamac koji se pokreće ljudskom snagom u kojem veslač (ili više njih) koristi veslo s jednom lopaticom. Iako u osnovi građom može podsjećati na kajak, u pravilu kanu nema zatvoreno nadgrađe, ima izraženiju vedenu liniju te viši i oštriji pramac i krmu u odnosu na kajak. Kanu se koristiti u sportske namjene na mirnim i divljim vodama ali sa sportskim plovilima, a turistički kanui za rekreaciju na isto takovim vodama. Sportski čamci sada više i ne sliče pravim kanuima jer se radi o plovilima od kojih se traži jedino brzina i neupotrebljivi su za druge namjene.
+
+Kanu je izvorno transportno plovilo kanadskih indijanaca. Slična plovila, po dizajnu, koriste se i danas za turizam i rekreaciju. Ti kanui se i zovu "canadien".</string>
+    <string name="veslanje">Veslanje je pojedinačni i grupni sport na vodi, u kojem osoba ili osobe koje se nalaze u čamcu pokreću čamac u kojem sjede snagom svojih mišića preko poluga koja se zovu veslima. Vesla su dugačke poluge koja na jednom kraju imaju rukohvat, dok drugi kraj koji je širi i plosnatiji (lopata) ulazi u vodu. Dvije su vrste vesala, a to su lopate i sjekire, razlikuju se po površini lopate koja ulazi u vodu, sjekire imaju veću površinu lopate. Veslačka natjecanja zovu se regate. Veslanje je standardni olimpijski sport, iako je vrlo popularan i kao akademski sport, posebno raširen na sveučilištima u Velikoj Britaniji i SAD. U Hrvatskoj veslanje ima dugu i uspješnu tradiciju, te je jedan od najuspješnijih hrvatskih sportova po broju osvojenih medalja na Olimpijskim igrama i Svjetskim veslačkim prvenstvima.</string>
+    <string name="ronjenje">Ronjenje je danas jedan od športova koji se najbrže širi svijetom, a oduvijek je postojala čovjekova želja da se spusti ispod površine mora, jezera, bilo u svrhu spašavanja, lova, rekreacije ili vojne svrhe.
+
+Ronjenje je određeno kao ljudska aktivnost ispod vodene površine uz zadržavanje daha pri uronu ili uz uporabu autonomnog ronilačkog aparata (ARA).</string>
+    <string name="plivanje">Plivanje je aktivnost kretanja živih bića kroz vodu koja uključuje održavanje na površini vode i kretanje u željenom smjeru. Za razliku od ronjenja kod kojeg se kretanje odigrava potpuno ispod površine vode, kod plivanja je moguće normalno disanje, odnosno održavanjem na vodi plivač osigurava da je organ za disanje, kod čovjeka nos i usta, iznad vode prilikom udisaja. Plivanje je omiljena rekreativna aktivnost ali i natjecateljski šport. Iako je plivanje vrlo zdrava aktivnost, ako plivač ne procijeni dobro svoju vještinu i pripremljenost te ne uvaži uvjete na vodi (moru, jezeru, rijeci i sl.) postoji stalna opasnost od utapljanja, te su stoga nužne mjere opreza.</string>
+
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

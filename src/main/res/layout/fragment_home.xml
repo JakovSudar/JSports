@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#b28c8c"
+        android:paddingTop="100dp">
+        <TextView
+            android:textColor="#000"
+            android:id="@+id/tvClick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="80dp"
+            android:text="Click to see random sport"
+            android:textSize="20dp" />
+
+        <RelativeLayout
+            android:layout_marginTop="25dp"
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/button"
+            android:id="@+id/btnClick"
+            android:layout_below="@id/tvClick">
+
+            <TextView
+                android:textColor="#000"
+                android:layout_width="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_height="wrap_content"
+                android:text="Random"
+                android:textSize="20dp"/>
+        </RelativeLayout>
+
+        <TextView
+            android:textColor="#000"
+            android:id="@+id/tvSwipe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btnClick"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="25dp"
+            android:text="Or swipe right for menu"
+            android:textSize="20dp" />
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_alignParentBottom="true"
+            android:background="#9a6b6b">
+
+            <TextView
+                android:padding="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:textColor="#000"
+                android:textStyle="italic"
+                android:textSize="13dp"
+                android:text="J a k o v   S u d a r"/>
+            <TextView
+                android:padding="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:textColor="#000"
+                android:textStyle="italic"
+                android:textSize="13dp"
+                android:text="F E R I T"/>
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+</FrameLayout>
